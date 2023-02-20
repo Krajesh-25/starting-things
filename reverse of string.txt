@@ -1,0 +1,3 @@
+fname=input("enetr name-")
+lname=input("enetr name-")
+print(lname +" "+fname)
